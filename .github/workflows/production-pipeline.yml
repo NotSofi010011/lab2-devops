@@ -10,7 +10,7 @@ env:
   REGISTRY: ghcr.io
   # Ім'я образу має бути в нижньому регістрі. Якщо у вашому нікнеймі є великі літери,
   # замініть на вручну заданий рядок, напр.: myname/lab2-devops
-  IMAGE_NAME: ${{ github.repository }}
+  IMAGE_NAME: notsofi010011/lab2-devops
 
 permissions:
   contents: read
